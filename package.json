@@ -1,0 +1,15 @@
+{
+  "name": "heroku-scheduler-tsnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adrianlee/heroku-scheduler-tsnode.git",
+  "author": "Adrian Lee <jun.irok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "typescript": "^4.4.2"
+  }
+}
